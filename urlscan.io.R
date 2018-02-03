@@ -6,8 +6,8 @@
 ## Thanks to Johannes Gilger for providing the API key
 ##
 ## Usage:
-## submit.object = urlscan.io.submit(input.url = "https://urlscan.io", 
-##                                     api.key = "your-api-here")
+## submit.object = urlscan.io.submit(url.to.submit = "https://urlscan.io", 
+##                                   api.key = "your-api-here")
 ##
 ## url.results = urlscan.io.result(submit.object)
 ##
